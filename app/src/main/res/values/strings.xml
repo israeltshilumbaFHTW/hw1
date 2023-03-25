@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+    <string name="username">Israel Tshilumba</string>
+    <string name="calcButton">calculate</string>
+    <string name="calcResult">0</string>
+    <string name="navigate">Navigate</string>
+    <string name="slideBar">0</string>
+    <string name="resultScreenCalcResult" >%d</string>
+</resources>
