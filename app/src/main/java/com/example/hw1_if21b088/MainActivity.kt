@@ -9,7 +9,7 @@ import android.widget.EditText
 import android.widget.SeekBar
 import android.widget.TextView
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() { //
     val logTag = "MainActivity"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
